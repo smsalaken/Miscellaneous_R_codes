@@ -3,7 +3,7 @@
 ###########################################
 
 # determine the depth of pyramid
-n <- 2
+n <- 12
 
 for (i in seq(1,n)){
   if(n < 1) {
